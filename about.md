@@ -1,33 +1,35 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: About
+description: This page describes profile.
 ---
-## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
 
-## Features
+I am a postdoctoral fellow in Public Health Division of Fred Hutchinson Cancer Research Center. My research interests broadly lie on unsupervised learning from data and public health studies. During the (post-)doctoral training, I focused on inferences on large-scale covariance matrices, longitudinal data analysis, and survival analysis. My thesis deals with positive definiteness of structured covariance matrix estimation and its application for rehabilitative speech treatment for Parkinson's disease patients and Markowitz's portfolio optimization problem. I also have involved in research on random matrix theory, cohort study, electronic medical record, and analysis of mass-spectrometry data.
 
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
+### Experience
 
-### Setup
+* Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle, WA, USA. (Dec. 2016 -- Present)
+	* Mentor: Yingqi Zhao
 
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
+* Data Analysis Advisor, Greedeat Inc., Seoul, Korea. (Sep. -- Nov. 2016) 
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
+* Postdoctoral Fellow, Seoul National University, Seoul, Korea. (Sep. 2015 -- Nov. 2016) 
+	* Mentor: Myunghee Cho Paik
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
+### Education
 
+* Ph.D., Statistics, College of Natural Science, Seoul National University, Seoul, Korea, 2015.
 
+* B.S., Mathematics Education (Cum Laude), College of Education, Seoul National University, Seoul, Korea, 2010.
 
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
+### Honors
 
-![Monochrome](img/monochrome01.png "monochrome")
+* (2016) Distinguished Student Paper Award, ENAR Spring Meeting, Austin, TX.
+
+* (2015) Best Thesis Award of College of Natural Science, College of Natural Science, Seoul National University.
+
+* (2012) Scholarship for Next Generation Scholars, Seoul National University.
+
 
 
 
